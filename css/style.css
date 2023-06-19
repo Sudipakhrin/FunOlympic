@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.form-control.form-control-lg.rounded-0 {
+    border: none;
+    border-bottom: 2px solid grey;
+    border-radius: 0;
+    box-shadow: none;
+}
+.btn-success.btn-lg {
+    border-radius: 24px;
+    padding: 12px 24px;
+    width: auto;
+    white-space: nowrap;
+}
+.form-group a {
+    color: #28a745;
+    font-size: 14px;
+}
+.full-height {
+    height: 100vh;
+}
+.background-img {
+    background: url('olympic2.jpg');
+    background-size: cover;
+}
+.form-container {
+    width: 100%;
+}
