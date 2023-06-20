@@ -1,0 +1,21 @@
+* {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+.started-text {
+  font-size: 3rem;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+}
+.btn-group a {
+  margin-right: 1rem;
+}
+
+.bg-custom {
+  background-color: #28A745 !important; /* using !important to make sure your custom style overrides Bootstrap's style */
+}
+
+.bg-custom-footer {
+  background-color: #007BBF !important; /* using !important to make sure your custom style overrides Bootstrap's style */
+}

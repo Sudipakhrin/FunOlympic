@@ -1,0 +1,29 @@
+{
+  "name": "tokio-olympics-app",
+  "version": "1.0.0",
+  "description": "App with Tokio Olympics 2020 data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCrackPro/tokio-olympics-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCrackPro/tokio-olympics-app/issues"
+  },
+  "homepage": "https://github.com/GabrielCrackPro/tokio-olympics-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

@@ -21,9 +21,19 @@ body {
     height: 100vh;
 }
 .background-img {
-    background: url('olympic2.jpg');
+    background-repeat: no-repeat;
+    background: url('../img/olympic2.jpg');
     background-size: cover;
 }
 .form-container {
     width: 100%;
+}
+
+.btn-custom {
+    background-color: #FFD700;
+    border-color: #FFD700;
+}
+.btn-custom:hover {
+    background-color: #b8860b;
+    border-color: #b8860b;
 }
